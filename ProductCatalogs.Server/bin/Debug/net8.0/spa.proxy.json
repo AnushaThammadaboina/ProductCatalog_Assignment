@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:51734",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\anuan\\OneDrive\\Desktop\\Angular App\\ProductCatalogs\\ProductCatalogs.Server\\..\\productcatalogs.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

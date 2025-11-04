@@ -1,0 +1,1 @@
+C:\Users\anuan\OneDrive\Desktop\Angular App\ProductCatalogs\productcatalogs.client\obj\Debug\productcatalogs.client.esproj.CoreCompileInputs.cache

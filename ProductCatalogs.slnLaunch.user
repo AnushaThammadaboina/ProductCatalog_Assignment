@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "productcatalogs.client\\productcatalogs.client.esproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ProductCatalogs.Server\\ProductCatalogs.Server.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
